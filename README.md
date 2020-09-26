@@ -1,3 +1,3 @@
 # cooleg.github.io
-Me websitey
-the site is live!!!
+Me websitey.
+The site is live!!!
